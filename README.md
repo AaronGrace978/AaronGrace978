@@ -100,16 +100,7 @@ Autonomous browser agent that drives a real Chrome session end to end. Plans mul
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AaronGrace978&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66c0f4&icon_color=66c0f4&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats for AaronGrace978" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronGrace978&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66c0f4&text_color=c9d1d9&langs_count=8" alt="Top languages for AaronGrace978" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AaronGrace978&theme=tokyonight&hide_border=true&background=0D1117&ring=66c0f4&fire=FF6B6B&currStreakLabel=66c0f4" height="150" alt="GitHub contribution streak for AaronGrace978" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AaronGrace978&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=66c0f4&line=66c0f4&point=FFFFFF&area=true" width="95%" alt="GitHub activity graph for AaronGrace978" />
+<img src="./assets/profile-stats.svg" alt="Stats for Aaron Grace: contributions, languages, and a one-year activity graph" width="100%" />
 
 </div>
 
