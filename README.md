@@ -48,7 +48,7 @@ Local-first desktop AI agent runtime. Electron + React 19 + Zustand, plan → ac
 ### 🧭 SpectrumPathways.ai
 Medicaid HCBS waiver navigation platform — helping families find and understand the services they qualify for.
 
-`Next.js` `PostgreSQL` `AI Venture Holdings`
+`Next.js` `PostgreSQL`
 
 </td>
 </tr>
