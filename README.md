@@ -52,6 +52,16 @@ Medicaid HCBS waiver navigation platform — helping families find and understan
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 WorkBot
+Autonomous browser agent that drives a real Chrome session end to end — plans multi-step tasks, reads live pages, fills forms, and verifies its own work before submitting. Built with a neural model stack (fast Nexus tier + deep Apex reasoning), friction detection that pivots when a site pushes back, and local specialist models for vision and DOM understanding.
+
+`TypeScript` `Python` `Chrome DevTools Protocol` `Ollama` `Multi-provider routing`
+
+</td>
+</tr>
 </table>
 
 ---
