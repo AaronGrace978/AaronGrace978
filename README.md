@@ -35,20 +35,12 @@ I build systems where **privacy is architecture, not a policy** — local-first 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🦖 DinoClaw
 Local-first desktop AI agent runtime. Electron + React 19 + Zustand, plan → act → verify loop, 50+ tools, multi-provider routing (OpenAI, Anthropic, Mistral, Gemini, Groq), local LLMs via Ollama.
 
 `Electron` `React 19` `TypeScript` `Ollama`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 SpectrumPathways.ai
-Medicaid HCBS waiver navigation platform — helping families find and understand the services they qualify for.
-
-`Next.js` `PostgreSQL`
 
 </td>
 </tr>
