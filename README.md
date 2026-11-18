@@ -4,7 +4,8 @@
 <img src="./assets/boston-deck.svg" alt="Boston Deck. Aaron Grace, AI engineer and founder of BostonAi.io. Now playing DinoClaw." width="100%" />
 
 
-![Uploading image_a5cf4054.jpeg…]()
+<img width="816" height="1284" alt="image_a5cf4054" src="https://github.com/user-attachments/assets/de7d0644-4213-4d94-bbe1-b9da6c8d5a33" />
+
 
 <a href="https://bostonai.io"><img src="https://img.shields.io/badge/bostonai.io-0c141c?style=for-the-badge&logo=firefox&logoColor=66c0f4" alt="bostonai.io" /></a>
 <a href="https://linkedin.com/in/aaron-grace-aa3274118"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
